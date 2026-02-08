@@ -232,11 +232,15 @@ Possible enhancements:
 ## 📸 Screenshots 
 
 
+```<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/fbdbbaba-15bd-4455-9e8d-f39409c4c642" />
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/d1035e30-b79b-45c5-aaf3-a1afd91e73bf" />
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/7f4407ca-2f92-4b2a-89b2-97d0ff06a6bf" />
+<img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/3742e675-a1ca-4cfa-b238-95c4d6b32aa7" />
 ```
 
-and embed them.
 
----
+
+
 
 ## 📚 Learning Outcomes
 
